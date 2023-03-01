@@ -1,0 +1,6 @@
+Flask
+pyjwt
+cryptography
+pymongo
+pyopenssl
+bcrypt
